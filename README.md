@@ -6,7 +6,7 @@ The dataset was an Excel sheet with 6 tabs
 
 ## Instructions
 **Background**
-The Mediterranean Camera Company’s CFO Ms. Toni
+- The Mediterranean Camera Company’s CFO Ms. Toni
 Hewlett is expecting a report with no more than 2
 pages with a horizontal navigation menu. This is an
 (EDA) Exploratory Data Analysis and product
